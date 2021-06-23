@@ -7,6 +7,8 @@ With curiosity as my motivation, I have a passion for learning new skills aim to
 
 One of my favorite parts in my previous 3-year experiences in customer support is to help people solve problems. The ability benefits me for communicating and collaborating with diverse teams.
 
+
+#### More About Me
 When I'm not working, you might find me scuba diving :diving_mask: in the ocean around islands of Taiwan. :desert_island: </br>
 I'm a fan of different cultures and beautiful nature who used to travel a lot.
 Now that traveling is not a good idea because of covid-19, why not dive into the ocean and enjoy the amazing marine life? :call_me_hand::call_me_hand::call_me_hand:
