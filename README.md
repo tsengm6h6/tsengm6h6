@@ -9,7 +9,7 @@ One of my favorite parts in my previous 3-year experiences in customer support i
 
 
 #### More About Me
-When I'm not working, you might find me scuba diving :diving_mask: in the ocean around islands of Taiwan. :desert_island: </br>
+When I'm not working, you might find me scuba diving :diving_mask: with my messy hair in the ocean around islands of Taiwan. :desert_island: </br>
 I'm a fan of different cultures and beautiful nature who used to travel a lot.
 Now that traveling is not a good idea because of covid-19, why not dive into the ocean and enjoy the amazing marine life? :call_me_hand::call_me_hand::call_me_hand:
 
