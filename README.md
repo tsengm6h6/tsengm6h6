@@ -18,7 +18,7 @@ Now that traveling is not a good idea because of covid-19, why not dive into the
 - HTML / CSS / JavaScript
 - Vue.js / Vuex / Vue Router
 - Sass
-- Bootstrap / Element UI / Tailwind
+- Bootstrap / Element UI / Tailwind CSS
 - Node.js
 - Express
 - MySQL and Sequelize
@@ -33,7 +33,7 @@ Now that traveling is not a good idea because of covid-19, why not dive into the
 
 ### 🌱 I’m currently learning ...
 ---
-- Nuxt.js
+- React
 - To dig deeper into what I know and use
 
 ### 👀 When I'm not working, I might be...
