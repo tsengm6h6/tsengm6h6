@@ -15,6 +15,7 @@ Now that traveling is not a good idea because of covid-19, why not dive into the
 
 ### :books: What I know and use
 ---
+- React, React Hooks
 - HTML / CSS / JavaScript
 - Vue.js / Vuex / Vue Router
 - Sass
@@ -28,8 +29,9 @@ Now that traveling is not a good idea because of covid-19, why not dive into the
 
 ### :bulb: My recent projects ...
 ---
+- [Realtime Chat App with MERN stack](https://github.com/tsengm6h6/chat-app-client-v2#realtime-chat-app-with-mern-stack-frontend)
+- [Single line search component](https://github.com/tsengm6h6/dynamic-search-demo)
 - [SPA website built with Vue.js](https://tsengm6h6.github.io/e-commerce-v2/#/)
-- [Expense-tracker](https://ancient-earth-70377.herokuapp.com/)
 
 ### 🌱 I’m currently learning ...
 ---
